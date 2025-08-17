@@ -32,9 +32,8 @@ This app helps users calculate their BMI based on their weight and height, and p
 ## 🧮 Formula
 The app uses the standard BMI formula:  
 
-\[
-BMI = \frac{\text{weight (kg)}}{\text{height (m)}^2}
-\]
+**BMI = weight (kg) / [height (m)]²**
+
 
 ## 📊 BMI Categories
 - **Underweight**: < 18.5  
